@@ -7,6 +7,7 @@ Mkt3L10n.AccountAnalyzerChart = {
   Trend: "Trend",
   Trend: "Trend",
   Trend: "Trend",
+  Trend: "Trend",
   Interactions_Cumulative_: "Interactions (Cumulative)"
 };
 Mkt3L10n.analytics = {
